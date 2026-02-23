@@ -1,5 +1,6 @@
 # Disease-Detection-system
 Chest X-ray Disease Detection using GLCM
+
 📌 Overview
 
 This project detects possible chest diseases (like pneumonia) from X-ray images using image processing and texture analysis techniques. It uses GLCM (Gray Level Co-occurrence Matrix) features to classify whether the chest X-ray is normal or abnormal.
